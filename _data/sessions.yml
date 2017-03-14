@@ -12,67 +12,67 @@
   description: "A brief welcome note to the poeple present in the hall"
 -
   id: 003
-  title: "Keynote"
+  title: "Cloud Next Keynote"
   place: "Hall"
   service: true
-  description: "A brief keynote note to the poeple present in the hall"
+  description: "A brief keynote note to the poeple present in the hall on Clound Next"
 -
   id: 004
-  title: "IOT the Future Talk"
+  title: "Tea Break"
   place: "Hall"
   service: true
-  description: "A speech about the topic IOT"
+  description: "A small tea break for 15 minutes"
 -
   id: 005
-  title: "Make your app Progressive"
+  title: "Google Cloud Platform"
   place: "Hall"
   service: true
-  description: "About the newly launched progressive web apps"
+  description: "About the newly launched Google Cloud Platform"
 -
   id: 006
-  title: "Connect real/Virtual world"
+  title: "Chrome and Android"
   place: "Hall"
   service: true
-  description: "About the Virtual Reality"
+  description: "About the Android and the Chrome"
 -
   id: 007
-  title: "Compute with Cloud"
+  title: "Bigdata and Meachine Learning API"
   place: "Hall"
   service: true
-  description: "About the Cloud computing and its features"
+  description: "About the APIs used in Bigdata and Meachine Learning"
 -
   id: 010
-  title: "Lunch & Team forming"
+  title: "Lunch Break"
   place: "Hall"
   service: true
-  description: "Haing Lunch and forming team for the event"
+  description: "Haing Lunch"
 -
   id: 011
-  title: "Track separation & Challenge announcement"
+  title: "Cloud Next Live Stream"
   place: "Hall"
   service: true
-  description: "Challanging contest to each and every team"
+  description: "A live stream for Cloud Next 2k17"
 -
   id: 012
-  title: "Code Lab starts on each track"
+  title: "Cloud Next Demo Video"
   place: "Hall"
   service: true
-  description: "Teams working on the contest"
+  description: "A Demo video showing Cloud Next 2k17"
 -
   id: 013
-  title: "Presentation by the team"
+  title: "G Suite"
   place: "Hall"
   service: true
-  description: "A brief representation of the contest by the team"
+  description: "A brief representation of G Suite from Google"
 -
   id: 014
-  title: "Prize distribution"
+  title: "Open House"
   place: "Hall"
   service: true
-  description: "Awarding the teams with the rain of prizes"
+  description: "A time to ask qusetions and clarify doubts"
 -
   id: 015
-  title: "12 Weeks GeeksUp challenge Announcement"
+  title: "Feedback & closing notes."
   place: "Hall"
   service: true
   description: "A small announcement for the next events and Vote of thanks"
