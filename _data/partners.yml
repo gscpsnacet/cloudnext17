@@ -1,0 +1,23 @@
+- 
+  group: "General sponsor"
+  elements: 
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "GDG Madurai", description: "GDG Madurai - Open and volunteer geek community", link: "http://gdgmadurai.in", imageUrl: "gdg-mdu.png"}
+- 
+  group: "With support of"
+  elements: 
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
+    - {name: "GDG Madurai", description: "GDG Madurai - Open and volunteer geek community", link: "http://gdgmadurai.in", imageUrl: "gdg-mdu.png", width: "120px"}
+    # - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-mdu.png", width: "120px"}
+# - 
+#   group: "Information partners"
+#   elements: 
+#     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+#     - {name: "GDG Madurai", description: "GDG Madurai - Open and volunteer geek community", link: "http://gdgmadurai.in", imageUrl: "gdg-mdu.png"}
+#     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+#     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+#     - {name: "GDG Madurai", description: "GDG Madurai - Open and volunteer geek community", link: "http://gdgmadurai.in", imageUrl: "gdg-mdu.png"}
+#     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+#     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+#     - {name: "GDG Madurai", description: "GDG Madurai - Open and volunteer geek community", link: "http://gdgmadurai.in", imageUrl: "gdg-mdu.png"}
+#     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}

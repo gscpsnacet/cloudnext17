@@ -1,0 +1,78 @@
+-
+  id: 001
+  title: "Registration"
+  place: "Reciption"
+  service: true
+  description: "Register yourself with the volenteers in the reception"
+-
+  id: 002
+  title: "Welcome Note"
+  place: "Hall"
+  service: true
+  description: "A brief welcome note to the poeple present in the hall"
+-
+  id: 003
+  title: "Keynote"
+  place: "Hall"
+  service: true
+  description: "A brief keynote note to the poeple present in the hall"
+-
+  id: 004
+  title: "IOT the Future Talk"
+  place: "Hall"
+  service: true
+  description: "A speech about the topic IOT"
+-
+  id: 005
+  title: "Make your app Progressive"
+  place: "Hall"
+  service: true
+  description: "About the newly launched progressive web apps"
+-
+  id: 006
+  title: "Connect real/Virtual world"
+  place: "Hall"
+  service: true
+  description: "About the Virtual Reality"
+-
+  id: 007
+  title: "Compute with Cloud"
+  place: "Hall"
+  service: true
+  description: "About the Cloud computing and its features"
+-
+  id: 010
+  title: "Lunch & Team forming"
+  place: "Hall"
+  service: true
+  description: "Haing Lunch and forming team for the event"
+-
+  id: 011
+  title: "Track separation & Challenge announcement"
+  place: "Hall"
+  service: true
+  description: "Challanging contest to each and every team"
+-
+  id: 012
+  title: "Code Lab starts on each track"
+  place: "Hall"
+  service: true
+  description: "Teams working on the contest"
+-
+  id: 013
+  title: "Presentation by the team"
+  place: "Hall"
+  service: true
+  description: "A brief representation of the contest by the team"
+-
+  id: 014
+  title: "Prize distribution"
+  place: "Hall"
+  service: true
+  description: "Awarding the teams with the rain of prizes"
+-
+  id: 015
+  title: "12 Weeks GeeksUp challenge Announcement"
+  place: "Hall"
+  service: true
+  description: "A small announcement for the next events and Vote of thanks"

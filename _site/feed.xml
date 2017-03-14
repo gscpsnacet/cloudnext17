@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GDG DevFest November 2016</title>
+    <description>GDG DevFest is a set of events all around the world</description>
+    <link>http://localhost:4000/gdgdevfest16/</link>
+    <atom:link href="http://localhost:4000/gdgdevfest16/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>GDG DevFest Madurai 2016!</title>
+        <description>&lt;p&gt;We’re very excited and proud - not just because of the inordinate amount of caffeine based products consumed - 
+but also because our team are putting together 
+the final missing parts to the biggest Google related event in Madurai - &lt;a href=&quot;https://matheswaaran.github.io/gdg/&quot;&gt;GDG DevFest Madurai 2016&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This year event will take place in  The Temple City known as Madurai on November 20, 2016. Being a unique South asian city in India, Madurai is among top cities that maintains the cultural heritage. So take your time to spend weeked in this curtual gem in India with the company of experts and technical geeks.&lt;/p&gt;
+
+&lt;h4 id=&quot;so-should-you-also-be-excited-well-yes-and-we-are-too-and-heres-why&quot;&gt;So should you also be excited? Well yes and we are too… and here’s why!&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;In 2015 the conference was visited by 100+ attendees from various parts of the world and this year - expanded speakers’ geography from companies like Google, Intel etc. and more &lt;a href=&quot;https://developers.google.com/experts/about&quot;&gt;Google Developer Experts&lt;/a&gt;!&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Topic&lt;/strong&gt;: more than 10 hours of pure Google technologies&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Date&lt;/strong&gt;: 20 of November, expect hackathon and workshops on that day&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Venue&lt;/strong&gt;: Yet to be decided in the city of Madurai.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Speakers&lt;/strong&gt;: we’re in the process of finalising the list of speakers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;hurry-up&quot;&gt;Hurry Up!!!&lt;/h4&gt;
+
+&lt;p&gt;So hurry up to book tickets to the Madurai, Temple City of India as you’ll get a huge inspiration to create your cool projects after these days in the company of coders, hackers, geeks and just experts of our industry.&lt;/p&gt;
+
+&lt;h4 id=&quot;like-us&quot;&gt;Like Us!!&lt;/h4&gt;
+
+&lt;p&gt;More details about speakers, DevFest Hackathon and Madurai will appear in subsequent posts, meantime like us on &lt;a href=&quot;https://facebook.com/gdgmaduraipage&quot;&gt;Facebook&lt;/a&gt;, follow on &lt;a href=&quot;https://twitter.com/gdgmadurai&quot;&gt;Twitter&lt;/a&gt;&lt;!-- , add to circles in [Google+](https://plus.google.com/b/102444623953913144164) or subcribe to our [mailing list](http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc) and [RSS feed](http://devfest.gdg.org.ua/feed.xml) --&gt; in order not to miss any cool stuff about festival.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Nov 2016 13:30:00 +0530</pubDate>
+        <link>http://localhost:4000/gdgdevfest16/blog/gdgmdu-devfest-16</link>
+        <guid isPermaLink="true">http://localhost:4000/gdgdevfest16/blog/gdgmdu-devfest-16</guid>
+      </item>
+    
+      <item>
+        <title>GDG DevFest 2015 in Madurai </title>
+        <description>&lt;p&gt;GDG I/O Extended 2016 was held on 28th of May in Madurai city. Here is the event report for GDG I/O Extended 2016. To know more go to the &lt;a href=&quot;http://gdgmadurai.in/gdgdevfestmadurai/&quot;&gt;Event Website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;event---report&quot;&gt;Event - Report&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We invited 40% Professional developers and 50% student developers, 10% business people and few startups&lt;/li&gt;
+  &lt;li&gt;We had 50% Women Participation.&lt;/li&gt;
+  &lt;li&gt;We were live with Hash tag: #gdgmadurai, #gdgdevfestmadurai2015 on Twitter, Facebook and Google+.&lt;/li&gt;
+  &lt;li&gt;The full event is broadcast live through youtube https://www.youtube.com/watch?v=gO2M9MAa0Z0&lt;/li&gt;
+  &lt;li&gt;Developers learned how to use Angularjs, Google Material design, Google Maps, New features in Android 6.0, Google brillo OS and Google launchpad program.&lt;/li&gt;
+  &lt;li&gt;We contacted the Image quiz program on end of every session to motivate audience. The winner got some prizes.&lt;/li&gt;
+  &lt;li&gt;We build a small game to randomly select registration number and gave some goodies.&lt;/li&gt;
+  &lt;li&gt;Android mobile app for the event created and shared with audience.&lt;/li&gt;
+  &lt;li&gt;We conducted a logo contest to redesign Google Logo. Got very good response on this.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;few-statistics&quot;&gt;Few statistics&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Participants Registered&lt;/strong&gt; 	184&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Participants Invited&lt;/strong&gt; 	    100&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Participants Attended&lt;/strong&gt; 	126&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Women Participants&lt;/strong&gt; 	    54&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;outcome&quot;&gt;Outcome&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Developers/students able to understand the latest trend in mobile/IoT/Web development in India. Tools and technology available from Google to build the sustainable market ready Mobile/Web application. Start-ups gets opportunity to show case their products and get some traction from local customer.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Any questions? 
+Email organizers at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#103;&amp;#100;&amp;#103;&amp;#100;&amp;#101;&amp;#118;&amp;#103;&amp;#114;&amp;#111;&amp;#117;&amp;#112;&amp;#109;&amp;#097;&amp;#100;&amp;#117;&amp;#114;&amp;#097;&amp;#105;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#103;&amp;#100;&amp;#103;&amp;#100;&amp;#101;&amp;#118;&amp;#103;&amp;#114;&amp;#111;&amp;#117;&amp;#112;&amp;#109;&amp;#097;&amp;#100;&amp;#117;&amp;#114;&amp;#097;&amp;#105;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Nov 2015 15:30:00 +0530</pubDate>
+        <link>http://localhost:4000/gdgdevfest16/blog/gdgmdu-devfest15</link>
+        <guid isPermaLink="true">http://localhost:4000/gdgdevfest16/blog/gdgmdu-devfest15</guid>
+      </item>
+    
+  </channel>
+</rss>

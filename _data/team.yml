@@ -1,0 +1,153 @@
+- 
+  id: 0
+  # name: "Andal"
+  surname: "Senthilkumar"
+  title: "Event Organiser"
+  thumbnailUrl: senthilkumar.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    # - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    # - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    - {name: "github", link: "https://github.com/sentenwin"}
+    # - {name: "site", link: "http://zasadnyy.com/"}
+- 
+  id: 1
+  # name: "Andal"
+  surname: "Andal"
+  title: "Team Member"
+  thumbnailUrl: andal.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+AndalM"}
+    - {name: "twitter", link: "https://twitter.com/Andal_Divya"}
+    # - {name: "github", link: "https://github.com/zasadnyy"}
+    - {name: "facebook", link: "https://facebook.com/andal.divya"}
+- 
+  id: 2
+  # name: "Ajay Kumar"
+  surname: "Ajay Kumar"
+  title: "Team Member"
+  thumbnailUrl: ajaykumar.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/110317160742141559479"}
+    - {name: "github", link: "https://github.com/alluajay"}
+    - {name: "facebook", link: "https://www.facebook.com/allu.ajaykumar"}
+- 
+  id: 3
+  # name: "Ostap"
+  surname: "Seshan"
+  title: "Team Member"
+  thumbnailUrl: seshan.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/103096827341923125312"}
+    - {name: "github", link: "https://github.com/seshankb"}
+    # - {name: "twitter", link: "https://twitter.com/p1f"}
+    - {name: "site", link: "http://allaboutseshan.blogspot.com"}
+- 
+  id: 4
+  # name: "Vitaliy"
+  surname: "Prasanth"
+  title: "Team Member"
+  thumbnailUrl: prasanth.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+PrasanthP96"}
+    - {name: "twitter", link: "https://twitter.com/prasanthp96"}
+    - {name: "github", link: "https://github.com/prasanthp96"}
+    - {name: "site", link: "http://prasanthp96.github.io/allaboutprasanth"}
+- 
+  id: 5
+  # name: "Vitaliy"
+  surname: "Matheswaaran"
+  title: "Team Member"
+  thumbnailUrl: matheswaaran.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "facebook", link: "https://facebook.com/rockinmat"}
+    - {name: "twitter", link: "https://twitter.com/Matheswaaran_S"}
+    - {name: "github", link: "https://github.com/matheswaaran"}
+    - {name: "site", link: "https://matheswaaran.github.io/allaboutmat"}
+- 
+  id: 6
+  # name: "Vitaliy"
+  surname: "Naresh Kumar"
+  title: "Team Member"
+  thumbnailUrl: nareshkumar.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+NareshKumargoogle"}
+    - {name: "facebook", link: "https://www.facebook.com/nareshkumar.nb.97"}
+    - {name: "github", link: "https://github.com/nareshkumarnb"}
+    - {name: "site", link: "http://nareshkumarnb.github.io/allaboutnaresh"}
+- 
+  id: 7
+  # name: "Vitaliy"
+  surname: "Narendra Prasath"
+  title: "Team Member"
+  thumbnailUrl: narendraprasath.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/101190121822726723635"}
+    - {name: "facebook", link: "https://www.facebook.com/narendra.prasath.35"}
+    - {name: "github", link: "https://github.com/narendraprasaths"}
+    - {name: "site", link: "http://narendraprasaths.github.io/allaboutnaren"}
+- 
+  id: 8
+  # name: "Vitaliy"
+  surname: "Mohamed Muzammil"
+  title: "Team Member"
+  thumbnailUrl: mohamedmuzammil.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/112822989530223857586"}
+    - {name: "facebook", link: "https://www.facebook.com/gocoool786"}
+    # - {name: "github", link: "https://github.com/zasadnyy"}
+    # - {name: "site", link: "http://zasadnyy.com/"}
+- 
+  id: 9
+  # name: "Vitaliy"
+  surname: "Anirudh"
+  title: "Team Member"
+  thumbnailUrl: aniruth.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+AnirudhKarthik"}
+    - {name: "facebook", link: "https://www.facebook.com/anirudh.en"}
+    - {name: "github", link: "https://github.com/AnirudhMurali"}
+    - {name: "site", link: "http://anirudhmurali.com/"}
+- 
+  id: 10
+  # name: "Vitaliy"
+  surname: "Pradeep"
+  title: "Team Member"
+  thumbnailUrl: pradeep.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    # - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    - {name: "facebook", link: "https://www.facebook.com/andrew1397"}
+    - {name: "github", link: "https://github.com/andrewpradeep"}
+    - {name: "site", link: "https://andrewpradeep.github.io/allaboutme"}
