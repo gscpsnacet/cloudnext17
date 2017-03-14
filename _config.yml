@@ -10,26 +10,26 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest November 2016"
-email: "gdgdevgroupmadurai@gmail.com"
+title: "Google Cloud Next 2k17"
+email: "gsc@psnacet.edu.in"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/gdgdevfest16"
-url: "https://gdgmdu.github.io"
+baseurl: "/cloudnext17"
+url: "https://gscpsnacet.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Madurai"
-organizerAlternateName: "Google Developer Group Madurai"
+organizerName: "Google Students Club, PSNACET"
+organizerAlternateName: "GSC, PSNACET"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "gdgdevgroupmadurai@gmail.com"
+organizerEmail: "gsc@psnacet.edu.in"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://gdgmadurai.in"
+organizerLink: "http://gscpsnacet.github.io"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, Madurai"
+metaKeywords: "event, gdg, gsc, cloud, google, programming, android, chrome, developers, Madurai, cloudnext, gscpsnacet"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
