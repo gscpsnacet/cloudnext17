@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Google Cloud Next 2k17"
 email: "gsc@psnacet.edu.in"
-description: "GDG DevFest is a set of events all around the world"
+description: "Google cloudnext is a set of events all around the world"
 baseurl: "/cloudnext17"
 url: "https://gscpsnacet.github.io"
 permalink: "/blog/:title"
@@ -57,9 +57,9 @@ navigationLinks:
 # Hero Block
 heroImage: "banners.jpg"
 heroTitle: "Google Cloud Next 2k17"
-eventDate: "March 15, 2017"
-typeoutTextValues: '"", "November", "Madurai"'
-typeoutFallback: "November"
+eventDate: "March 31, 2017"
+typeoutTextValues: '"", "March", "Dindigul"'
+typeoutFallback: "March"
 heroButtons:
  - {link: "https://www.tinyurl.com/cloudnext17", text: "Register here"}
  # - {permalink: "/#tickets", text: "Buy tickets"}
@@ -67,9 +67,9 @@ heroButtons:
 # About Block
 aboutTitle: "About Google Cloud Next"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Imagine", image: "slide-3.jpg", text: "What was once considered impossible is now being rewritten. Innovation is accelerating because of what cloud can already do — it’s now your imagination that will drive what’s next." }
+ - {title: "Learn", image: "slide-1.jpg", text: "Engage with the foremost minds leading the cloud revolution and learn how the modern enterprise is benefiting from the latest in cloud technology in unprecedented ways" }
+ - {title: "Build", image: "slide-2.jpg", text: "Join our community of visionaries, developers, tech advocates, enterprise partners, and global customers to build for tomorrow. Now has arrived, at Next" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
