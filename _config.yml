@@ -67,17 +67,17 @@ heroButtons:
 # About Block
 aboutTitle: "About Google Cloud Next"
 aboutBlock:
- - {title: "Imagine", image: "slide-3.jpg", text: "What was once considered impossible is now being rewritten. Innovation is accelerating because of what cloud can already do — it’s now your imagination that will drive what’s next." }
+ - {title: "Imagine", image: "slide-3.jpg", text: "What was once considered impossible is now being rewritten. Innovation is accelerating because of what cloud can already do — it’s now your imagination that will drive what’s Next" }
  - {title: "Learn", image: "slide-1.jpg", text: "Engage with the foremost minds leading the cloud revolution and learn how the modern enterprise is benefiting from the latest in cloud technology in unprecedented ways" }
  - {title: "Build", image: "slide-2.jpg", text: "Join our community of visionaries, developers, tech advocates, enterprise partners, and global customers to build for tomorrow. Now has arrived, at Next" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "250", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "10", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "5", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "250", specialCharacter: "+", info: "attendees", detail: "from TamilNadu and beyond"}
+ - {count: "8", specialCharacter: "+", info: "hours", detail: "of pure Google Cloud technologies"}
+ - {count: "3", specialCharacter: "+", info: "speakers", detail: "from Google"}
+ - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"

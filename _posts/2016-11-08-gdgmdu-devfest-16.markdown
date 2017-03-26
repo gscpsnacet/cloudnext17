@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "GDG DevFest Madurai 2016!"
-date:   2016-11-08 08:00:00
+title:  "Applied CS with Android"
+date:   Present 08:00:00
 isStaticPost: false
-image: blog.JPG
+image: blog.jpeg
 ---
 
 We're very excited and proud - not just because of the inordinate amount of caffeine based products consumed - 
