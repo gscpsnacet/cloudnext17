@@ -80,7 +80,7 @@ statisticBlock:
  - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Latest Programs"
 
 # # Rockstar Speakers Block
 # rockstarSpeakersImage: "rockstar-speakers.jpg"
