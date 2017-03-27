@@ -58,7 +58,7 @@ navigationLinks:
 heroImage: "banners.jpg"
 heroTitle: "Google Cloud Next 2k17"
 eventDate: "March 31, 2017"
-typeoutTextValues: '"", "March", "Dindigul"'
+typeoutTextValues: '"", "GSC", "PSNACET"'
 typeoutFallback: "March"
 heroButtons:
  - {link: "https://www.tinyurl.com/cloudnext17", text: "Register here"}
@@ -83,10 +83,10 @@ statisticBlock:
 latestNewsTitle: "Latest Programs"
 
 # # Rockstar Speakers Block
-# rockstarSpeakersImage: "rockstar-speakers.jpg"
-# rockstarSpeakersCount: 4
-# rockstarSpeakersTitle: "Rockstar speakers"
-# rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
 
 # # Location Block
 # locationBlockTitle: "Location"
