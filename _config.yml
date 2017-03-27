@@ -43,9 +43,9 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- # - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
- # - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
@@ -190,9 +190,9 @@ footerBlocks:
   links:
    - {link: "mailto:gsc@psnacet.edu.in", text: "gsc@psnacet.edu.in"}
  -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+  #title: "FAQ"
+  #links:
+   #- {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
@@ -200,7 +200,7 @@ blogCommentsEnabled: true
 discusShortName: "devfestua"
 
 # # Speakers List Block
-# showSessions: true
+showSessions: true
 
 # # Team Block
 # teamBlockTitle: "About us"

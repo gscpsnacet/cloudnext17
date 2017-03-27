@@ -1,7 +1,8 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GSC Psnacet", description: "GSC Psnacet - Open and volunteer geek community", link: "http://gscpsnacet.github.io", imageUrl: "gdg-mdu.png"}
+    - {name: "GSC Psnacet", description: "GSC Psnacet - Open and volunteer geek community", link: "http://gscpsnacet.github.io", imageUrl: "gsc-logo.png", width: "115px", height: "100px" }
+    - {name: "GDG Madurai", description: "GDG Madurai - Open and volunteer geek community", link: "http://www.gdgmadurai.in/", imageUrl: "gdg-mdu.png"}
 # - 
 #   group: "Co-organizers"
 #   elements: 
