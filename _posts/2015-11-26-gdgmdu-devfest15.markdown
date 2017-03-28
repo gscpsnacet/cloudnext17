@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GSC Consign "
-date:   2015-11-26 10:00:00
+date:   2017-02-18 10:00:00
 isStaticPost: false
 image: gdgmdudevfest15.jpg
 ---
