@@ -116,13 +116,14 @@ venueTitle: "Sri Rangalatchumi Auditorium, PSNACET, Dindigul."
 # Tweets Feed Block
 tweetsFeedImage: "Thirumalai-Nayak-Palace-Madurai3.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "cloudnext17mdu"
+twitterHashTag: "googlenext17"
 # twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Visit GSC, Psnacet"
+partnersC4sponsorsButton: "Home"
+
 
 # # Subscribe Block
 # subscribeImage: "subscribe.jpg"
