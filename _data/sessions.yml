@@ -1,27 +1,27 @@
 -
   id: 001
   title: "Registration"
-  place: "Reciption"
+  place: "Reception"
   service: true
-  description: "Register yourself with the volenteers in the reception"
+  description: "Register yourself with the volunteers in the reception"
 -
   id: 002
   title: "Welcome Note"
   place: "Hall"
   service: true
-  description: "A brief welcome note to the poeple present in the hall"
+  description: "A brief welcome note to the people present in the hall"
 -
   id: 003
   title: "Cloud Next Keynote"
   place: "Hall"
   service: true
-  description: "A brief keynote note to the poeple present in the hall on Clound Next"
+  description: "A brief keynote note to the people present in the hall on Cloud Next"
 -
   id: 004
   title: "Tea Break"
   place: "Hall"
   service: true
-  description: "A small tea break for 15 minutes"
+  description: "A small tea break for 15 minutes" 
 -
   id: 005
   title: "Google Cloud Platform"
@@ -36,7 +36,7 @@
   description: "About the Android and the Chrome"
 -
   id: 007
-  title: "Bigdata and Meachine Learning API"
+  title: "Bigdata and Machine Learning API"
   place: "Hall"
   service: true
   description: "About the APIs used in Bigdata and Meachine Learning"
@@ -72,7 +72,7 @@
   description: "A time to ask qusetions and clarify doubts"
 -
   id: 015
-  title: "Feedback & closing notes."
+  title: "Feedback & closing notes"
   place: "Hall"
   service: true
   description: "A small announcement for the next events and Vote of thanks"
